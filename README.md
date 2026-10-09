@@ -17,3 +17,4 @@ Python | Logic | Dictionary | Try/Except | GitHub
 📍 Karachi | 🎯 Open to Python Jobs
 
 🔗 My GitHub: github.com/rizwanrajwan32-del
+4. **SHO TO-DO Duty Manager** (`sho_todo.py`) - Interview Ready App with File Persistence
